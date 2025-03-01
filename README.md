@@ -37,7 +37,7 @@ Here we can see how useful the Splunk search tab is, where as long as we know wh
 <img src="https://i.imgur.com/NFCbMvV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here we can see that I successfully created my domain controller and set it up properly allowing me to use Server Manager. In this VM is where I can make changes to the firewall and also change client-1 and change the IP to point to my domain controller.
+In this image we see the word basline which really means normality. So when ever we get alerts like this would be when we want to go in and see what is going on. It could just be something simple we have nothing to worry about or it could be a hacker trying to infiltrate a company or take over someone's personal profile.
 </p>
 <br />
 
