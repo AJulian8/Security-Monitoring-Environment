@@ -19,11 +19,9 @@ This tutorial outlines Splunk and how we set it up to monitor and ensure our env
 
 <h2>List of Prerequisites</h2>
 
-- Install Internet Information Services (IIS)
-- Set up Domain Controller
 - Create a Virtual Network and Subnet
-- Create the Domain Controller VM's
-- Log into the VM and edit the firewall
+- Create the VM's
+- Download and setup Splunk
 
 <h2>Active Directory Lab Steps</h2>
 
