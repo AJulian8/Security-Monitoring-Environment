@@ -1,6 +1,6 @@
 # Security-Monitoring-Environment
 <p align="center">
-<img src="https://i.imgur.com/g4LY2yK.png" width="400"/> 
+<img src="https://i.imgur.com/I0pUj9e.png" width="400"/> 
 </p>
 
 <h1>Active Directory - Prerequisites and Installation</h1>
