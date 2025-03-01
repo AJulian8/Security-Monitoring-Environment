@@ -29,7 +29,7 @@ This tutorial outlines Splunk and how we set it up to monitor and ensure our env
 <img src="https://i.imgur.com/NH8dzrs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This diagram above is the easiest way to show  what I created as far as my client-1 and how it will be communicating with the domain controller. I also went in and created my rescourse groups along with a virtual network and subnet that will be shown in the next slides.
+Here we can see how useful the Splunk search tab is, where as long as we know what were looking for we can type it in and it will give us our results. This here is an example of all the different signatures it scans for.
 </p>
 <br />
 
