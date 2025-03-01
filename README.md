@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/I0pUj9e.png" width="400"/> 
 </p>
 
-<h1>Active Directory - Prerequisites and Installation</h1>
+<h1>Splunk - Setup and Features</h1>
 This tutorial outlines the installation and use of actice directory in our Azure VM's.<br />
 
 <h2>Environments and Technologies Used</h2>
