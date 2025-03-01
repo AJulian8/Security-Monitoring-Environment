@@ -45,3 +45,4 @@ In this image we see the word basline which really means normality. So when ever
 <img src="https://i.imgur.com/cGsUCd7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+This is just a cool example of a map that shows us all around the world where we are getting entries from and what places have the most going on that our monirotring system is picking up. Again like the first example we get all these variations by knowing what to put in the search tab. And how do we know what to put? Well it could be from you or one of your co workers past experiences or the good ol internet is always reliable!
