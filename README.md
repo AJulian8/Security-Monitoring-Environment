@@ -4,7 +4,7 @@
 </p>
 
 <h1>Splunk - Setup and Features</h1>
-This tutorial outlines the installation and use of actice directory in our Azure VM's.<br />
+This tutorial outlines Splunk and how we set it up to monitor and ensure our environmnet was secure.<br />
 
 <h2>Environments and Technologies Used</h2>
 
