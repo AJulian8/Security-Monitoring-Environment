@@ -14,7 +14,8 @@ This tutorial outlines Splunk and how we set it up to monitor and ensure our env
 
 <h2>Operating Systems Used </h2>
 
-- Linux</b> 
+- Linux
+- Windows</b> 
 
 <h2>List of Prerequisites</h2>
 
