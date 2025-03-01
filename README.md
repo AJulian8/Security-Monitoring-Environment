@@ -8,9 +8,9 @@ This tutorial outlines Splunk and how we set it up to monitor and ensure our env
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Ubuntu (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Linux
 
 <h2>Operating Systems Used </h2>
 
